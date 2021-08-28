@@ -1,0 +1,15 @@
+{
+  "blogiqlenv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-blogigraphi-blogiqlenv-111842-authRole",
+      "UnauthRoleArn": "arn:aws:iam::656305620321:role/amplify-blogigraphi-blogiqlenv-111842-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::656305620321:role/amplify-blogigraphi-blogiqlenv-111842-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-blogigraphi-blogiqlenv-111842-deployment",
+      "UnauthRoleName": "amplify-blogigraphi-blogiqlenv-111842-unauthRole",
+      "StackName": "amplify-blogigraphi-blogiqlenv-111842",
+      "StackId": "arn:aws:cloudformation:us-east-2:656305620321:stack/amplify-blogigraphi-blogiqlenv-111842/916bbc50-07d8-11ec-abda-028611031520",
+      "AmplifyAppId": "d32eit2tb50lfj"
+    }
+  }
+}

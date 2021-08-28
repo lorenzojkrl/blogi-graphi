@@ -11,3 +11,7 @@ function App() {
 }
 
 export default App;
+
+// Run
+// amplify configure to set up a new amplify profile for the project
+// amplify init
