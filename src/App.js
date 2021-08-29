@@ -4,9 +4,10 @@ import DisplayPosts from './components/DisplayPost';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header"> My Favorite Posts</header>
+      <main className="App-main">
         <DisplayPosts></DisplayPosts>
-      </header>
+      </main>
     </div>
   );
 }

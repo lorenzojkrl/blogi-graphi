@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+}
+
+.post-container {
+  width: 100%;
+  background-color: aliceblue;
+  text-align: left;
+  border-radius: 5px;
+  padding: 0.5vh;
+  margin-bottom: 1vh;
+}
+
+.credits {
+  font-size: medium;
+  text-align: right;
+  font-style: italic;
+}
+
+.a-right {
+  text-align: right;
+}
