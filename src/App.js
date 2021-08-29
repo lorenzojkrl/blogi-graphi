@@ -1,10 +1,11 @@
 import './App.css';
+import DisplayPosts from './components/DisplayPost';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hi There!
+        <DisplayPosts></DisplayPosts>
       </header>
     </div>
   );
